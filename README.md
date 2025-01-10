@@ -9,7 +9,7 @@ Increase swap file size to better handle low amount of RAM. Change CONF_SWAPSIZE
 sudo nano /etc/dphys-swapfile
 Reload swpfile configuration
 sudo systemctl restart dphys-swapfile
-Download and unzip this respository https://github.com/frankcarmody/piFace
+Download and unzip this respository https://github.com/safiabduljamil/Face-Recognition-System
 Move unzipped respository folder to Raspberry Pi Desktop
 Open 'util' folder inside unzipped repository, right click on 'rpi_opencv_install.sh', click 'properties' and set permission to execute for anyone.
 Click on unzipped folder on desktop, open folder, right click on "util" folder and select "Open in terminal" from context menu.
